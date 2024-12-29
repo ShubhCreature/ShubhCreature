@@ -11,9 +11,9 @@
 
 - 💬 Ask me about **python , Machine learning , HTML ,CSS** p P.S- Anything
 
-- 📫 How to reach me **nv.ry1610@gmail.com** 
+- 📫 How to reach me **shubhcreature@gmail.com** 
 
-- ⚡ Fun fact **Life is great**
+- ⚡ Fun fact **Long Live Creature**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
