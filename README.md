@@ -7,7 +7,7 @@ I am currently coding every day to improve my skills.
 - **Log:** [View my daily log here](https://github.com/yourusername/100-days-of-code)
 
 <!-- Optional Progress Bar -->
-![Progress](https://geps.dev/progress/15)
+![Progress](https://geps.dev/progress/1)
 
 <!--
 **ShubhCreature/ShubhCreature** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
