@@ -4,7 +4,7 @@
 I am currently coding every day to improve my skills.
 - **Current Status:** Day 1 / 100
 - **Latest Project:** 0
-- **Log:** [View my daily log here](https://github.com/yourusername/100-days-of-code)
+- **Log:** [View my daily log here](https://github.com/ShubhCreature/100-days-of-code)
 
 <!-- Optional Progress Bar -->
 ![Progress](https://geps.dev/progress/1)
