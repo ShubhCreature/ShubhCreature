@@ -1,4 +1,13 @@
-## Hi there 👋
+# Hi, I'm [Your Name]! 👋
+
+## ⚡ 100 Days of Code Challenge
+I am currently coding every day to improve my skills.
+- **Current Status:** Day 15 / 100
+- **Latest Project:** [My Weather App](link)
+- **Log:** [View my daily log here](https://github.com/yourusername/100-days-of-code)
+
+<!-- Optional Progress Bar -->
+![Progress](https://geps.dev/progress/15)
 
 <!--
 **ShubhCreature/ShubhCreature** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
