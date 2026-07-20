@@ -6,10 +6,15 @@ I am currently coding every day to improve my skills.
 - **Latest Project:** 0
 - **Log:** [View my daily log here](https://github.com/ShubhCreature/100-days-of-code)
 
+![100 Days of Code](https://img.shields.io/badge/100_Days_of_Code-Day%2015-blueviolet?style=for-the-badge&logo=github)
+
 <!-- Optional Progress Bar -->
 ![Progress](https://geps.dev/progress/1)
 
 <!--
+
+
+
 **ShubhCreature/ShubhCreature** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
